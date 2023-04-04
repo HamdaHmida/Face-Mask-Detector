@@ -17,7 +17,7 @@ wearing/removing mask and display of prediction.
 
 ### No Mask
 
-![image](nomask.png)
+![image](NoMaskTry.png)
 
 
 
