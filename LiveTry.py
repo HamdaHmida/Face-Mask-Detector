@@ -18,7 +18,7 @@ color_dict = {1 : (0,0,255), 0:(0,255,0) }
 
 while(True):
     ret,img=source.read()
-    #img=Mirror(img)
+    img=Mirror(img)
     faces = face_cls.detectMultiScale(img, 1.3, 5)
     
     
