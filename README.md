@@ -12,7 +12,7 @@ With the webcam capturing the video, the frames are preprocessed and and fed to 
 
 ### With Mask
 
-![image](mask.png)
+![image](MaskTry.png)
 
 ### No Mask
 
